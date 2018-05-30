@@ -1,0 +1,2 @@
+# Magazines
+Oracle Magazines
